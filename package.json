@@ -1,5 +1,5 @@
 {
-  "name": "taskutils",
+  "name": "taskmanagerutil",
   "version": "1.0.0",
   "description": "A task management package with CRUD, search, and file operations.",
   "main": "index.js",
