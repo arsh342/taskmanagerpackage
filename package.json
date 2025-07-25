@@ -1,6 +1,6 @@
 {
   "name": "taskmanagerutil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A task management package with CRUD, search, and file operations.",
   "main": "index.js",
   "types": "index.d.ts",
