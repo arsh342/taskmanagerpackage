@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+tasks.json
+*.log
+coverage/
+tmp/
+.DS_Store
