@@ -1,0 +1,23 @@
+{
+  "name": "taskutils",
+  "version": "1.0.0",
+  "description": "A task management package with CRUD, search, and file operations.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "keywords": [
+    "task",
+    "management",
+    "CRUD",
+    "file",
+    "json"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^11.7.1",
+    "uuid": "^11.1.0"
+  }
+}
